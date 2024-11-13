@@ -9,8 +9,8 @@
         } else {
             System.out.println ("eagerInstance1 and eagerInstance2 are different instances");
         }
-
-        SingletonEager eagerInstance = SingletonEager.getEagerInstance();
+        
         // beacause of the using 'static' keyword we can access the class without an object
+
     }
  }

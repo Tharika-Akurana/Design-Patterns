@@ -5,9 +5,9 @@ public class SingletonThreadSafeTest {
 
         // Check if the lazyInstance1 and lazyInstance2 are the same instances
         if (threadSafeInstance1 == threadSafeInstance2) {
-            System.out.println ("lazyrInstance1 and lazyInstance2 are the same instances");
+            System.out.println ("threadSafeInstance1 and threadSafeInstance2 are the same instances");
         } else {
-            System.out.println ("lazyInstance1 and lazyInstance2 are different instances");
+            System.out.println ("threadSafeInstance1 and threadSafeInstance2 are different instances");
         }
 
     }
