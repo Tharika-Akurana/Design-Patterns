@@ -1,0 +1,8 @@
+/*
+1. Client.java — Handles converting and displaying the database data.
+2. DatabaseData.java — Represents the data retrieved from the database.
+3. DatabaseDataConverter.java — Interface defining the conversion behavior.
+4. DisplayData3rdParty.java — Represents the format for displaying the data.
+5. DisplayDataAdapter.java — Implements the adapter to convert data from database format to display format.
+6. DatabaseDataGenerator.java — Generates sample data.
+*/
